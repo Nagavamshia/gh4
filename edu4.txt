@@ -1,1 +1,1 @@
-First branch file1
+First branch file1.Modification done after merging 
